@@ -1,0 +1,9 @@
+.filter-container{
+    width: 400px;
+}
+.card-header{
+    background-color: #0a75ad;
+}
+.card{
+    border: 2px solid #0a75ad;
+}

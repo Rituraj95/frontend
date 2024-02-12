@@ -1,0 +1,17 @@
+
+  .member-list{
+    border: 2px solid #0a75ad;
+    width: 889px;
+
+  height: 179px;
+
+  }
+  .member-list table{
+    width: 886px;
+  }
+  
+
+  .thead{
+    height: 44px;
+  background-color: #0a75ad;
+  }
